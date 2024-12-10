@@ -7,4 +7,5 @@ or you can also delete a task.
 
 In this application "Provider" as state manager is used different functions are written in provider functions.
 
-![Screenshot_1733860469](https://github.com/user-attachments/assets/e099bbe6-e736-4a86-a5a4-e5df3cae792b)
+![Screenshot_1733860469 (1)](https://github.com/user-attachments/assets/74a1a684-cb0a-4547-8568-bfeebf39df9e)
+
