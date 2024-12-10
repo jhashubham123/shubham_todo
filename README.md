@@ -1,16 +1,9 @@
 # todo
 
-A new Flutter project.
+This is a to-do app in which you can save your daily tasks in one line. Also you can mark it check if it is done
+or you can also delete a task.
 
-## Getting Started
+# State management Used:
 
-This project is a starting point for a Flutter application.
+In this application "Provider" as state manager is used different functions are written in provider functions.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
